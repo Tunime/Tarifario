@@ -396,4 +396,12 @@ nav {
   padding: 1em 0.5em;
   width: 17.3%; }
 
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.bold {
+  font-style: bold; }
+
 /*# sourceMappingURL=main.css.map */

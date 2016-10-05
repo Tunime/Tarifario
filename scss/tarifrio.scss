@@ -9,11 +9,6 @@ nav{
       
       box-sizing:border-box;
       
-      //word-spacing: -1px;
-      //font-size: 1px;
-      //letter-spacing: -1px;
-      //width: 80%;
-      
       .celda{
         border: 1px solid #ffffff;
         display: inline-block;
@@ -22,14 +17,6 @@ nav{
         box-sizing:border-box;
         padding:1em 0.5em;
         width:17.3%;
-        //min-width:150px;
-        
-        //display: inline-block;
-        //word-spacing: normal;
-        //font-size: 1rem;/*u otra unidad para IE8 y -*/
-        //letter-spacing: normal;
-        //white-space: normal;
-        //width: XXXvalor;/*El valor necesario*/ 
       }
     }
   }
@@ -42,4 +29,12 @@ nav{
         box-sizing:border-box;
         padding:1em 0.5em;
         width:17.3%;
+}
+.flex {
+  display:flex;
+  justify-content: center;
+  align-items: center; 
+}
+.bold {
+  font-style: bold;
 }
