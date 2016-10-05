@@ -1,5 +1,7 @@
 nav{
   background: #0B57A2;
+  width: 100vw;
+  height: 100vh;
   
   .ul{
     padding:0.5em;
@@ -13,7 +15,7 @@ nav{
       //width: 80%;
       
       .celda{
-        border: 1px solid #93C34D;
+        border: 1px solid #ffffff;
         display: inline-block;
         margin-right:-4px;
         color: #ffffff;

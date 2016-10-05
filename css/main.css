@@ -373,13 +373,15 @@ th {
   padding: 0; }
 
 nav {
-  background: #0B57A2; }
+  background: #0B57A2;
+  width: 100vw;
+  height: 100vh; }
   nav .ul {
     padding: 0.5em; }
     nav .ul .linea {
       box-sizing: border-box; }
       nav .ul .linea .celda {
-        border: 1px solid #93C34D;
+        border: 1px solid #ffffff;
         display: inline-block;
         margin-right: -4px;
         color: #ffffff;
